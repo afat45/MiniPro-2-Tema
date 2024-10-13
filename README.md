@@ -1,3 +1,5 @@
+pass admin = admin123
+
 Flowchart:
 ![flowchart minipro 2 tema drawio](https://github.com/user-attachments/assets/7895e567-3720-47b6-bec5-be7eb1997cc4)
 Penjelasan Program:
