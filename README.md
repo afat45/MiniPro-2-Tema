@@ -25,7 +25,7 @@ anda bisa melakukan gacha, pastikan kamu mempunyai minimal 100 coin untuk gacha 
 untuk menu adventure masi belum di support
 
 ![Screenshot 2024-10-13 152506](https://github.com/user-attachments/assets/cebef37a-9d7f-4862-816d-bb90e27129ee)
-untuk menu admin passnya adalah admin123
+untuk menu admin passnya adalah admin123,
 pada menu admin anda bisa menambahkan coin,figure dan mengganti rate gacha 
 
 ![Screenshot 2024-10-13 152528](https://github.com/user-attachments/assets/01ede01e-d5a8-45f8-a6a4-feacefba75f6)
