@@ -1,8 +1,45 @@
-pass admin = admin123
+pass admin = admin123  
+  
+penjelasan baris code:  
+baris 1-3: import random,time dan prettytable  
+baris 4-18: data game  
+baris 20-26: table harga  
+baris 28-36: table inv  
+baris 38-46: table rate  
+baris 47-56: perintah kecil-kecilan  
+baris 57-64: input pertama dan loop (lobby login)  
+baris 65-70: sign up sistem  
+baris 72-84: log in sistem  
+baris 85-93: lobby game  
+baris 94-96: print nilai (coin)  
+baris 97-106: lobby inventory  
+baris 107-181: lobby jual masing-masign figure  
+baris 182-201: jual semua inventory    
+baris 202-203: balik ke lobby game  
+baris 204-207: print("pilihan tidak valid") jika inputan tidak memenuhi syarat pada menu jual  
+baris 208-212: jika coin <100 tidak bisa ke lobby gacha  
+baris 213-221: lobby gacha  
+baris 222-262: sistem gacha 1X  
+baris 263-316: sistem gacha inputan  
+baris 317-377: sistem gacha all in coin  
+baris 378-381: pilihan adventure yang masih coming soon  
+baris 382-383: kembali ke lobby login  
+baris 386-389: print("pilihan tidak valid") jika inputan tidak memenuhi syarat pada lobby game  
+baris 391-393: masuk pass untuk ke lobby admin  
+baris 394-400: lobby admin  
+baris 401-405: command tambah coin  
+baris 406-460: command ganti rate figure  
+baris 461-521: command tambahkan figure  
+baris 522-523: kembali ke lobby login  
+baris 524-525: print("pilihan tidak valid") jika inputan tidak memenuhi syarat pada lobby admin  
+baris 526-527: print ("pass slh") jika password ke menu admin salah  
+baris 528-530: keluar pada menu login atau exit pada program   
+baris 531-534: print("pilihan tidak valid") jika inputan tidak memenuhi syarat pada lobby login  
+
 
 Flowchart:
 ![flowchart minipro 2 tema drawio](https://github.com/user-attachments/assets/7895e567-3720-47b6-bec5-be7eb1997cc4)
-Penjelasan Program:
+Penjelasan Program: (input dan output)
 
 ![Screenshot 2024-10-13 152117](https://github.com/user-attachments/assets/9976963e-2b19-4493-a9b0-dba11c6fa2c2)
 terdapat 4 menu pada menu utama dari sign up ,login, admin dan exit
